@@ -3,8 +3,6 @@ title: "OSP-PBPK-Model-Library"
 author: "Open System Pharmacology"
 date: "`r Sys.Date()`"
 output: github_document
-params:
-  user: pchelle
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
