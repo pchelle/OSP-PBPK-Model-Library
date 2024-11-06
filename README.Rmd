@@ -25,12 +25,6 @@ pkSimPortableFolder <- "PK-Sim/PK-Sim"
 source("report-qualification-template.R")
 ```
 
-```{r run reports, include=FALSE}
-for (modelIndex in 1:nrow(modelsData)) {
-  runEvaluationReport(modelIndex, modelsData, toolsData)
-}
-```
-
 ## PBPK Models
 
 ```{r, results='asis'}
