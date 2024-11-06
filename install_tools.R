@@ -42,9 +42,11 @@ installTool <- function(toolName, toolsData = toolsData) {
       "https://github.com/Open-Systems-Pharmacology/rSharp/releases/download/v",
       toolVersion, "/rSharp-v", toolVersion, "-Windows-r_4.4.0.zip"
     ),
+    # Link not consistent across versions
     "Qualification Runner" = paste0(
       "https://github.com/Open-Systems-Pharmacology/QualificationRunner/releases/download/v",
-      toolVersion, "/qualificationrunner-portable-setup_", toolVersion, ".zip"
+      toolVersion, "/qualificationrunner-portable-setup", 
+      switch(toolVersion, "10.0.59" = "", "11.0" = "_11.0.138", "11.1" = "_11.1.130"), ".zip"
     ),
     "Reporting Engine" = paste0(
       "https://github.com/Open-Systems-Pharmacology/OSPSuite.ReportingEngine/releases/download/v",
