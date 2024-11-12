@@ -23,7 +23,7 @@ modelsData <- read.csv(
 source("report-qualification-template.R")
 ```
 
-```{r run reports, include=FALSE}
+```{r run reports, include=FALSE, warning=NA}
 for (modelIndex in 1:nrow(modelsData)) {
   runEvaluationReport(modelIndex, modelsData, toolsData)
 }
