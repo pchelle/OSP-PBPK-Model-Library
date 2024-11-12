@@ -34,6 +34,7 @@ runEvaluationReport <- function(modelIndex, modelsData, toolsData) {
   )
   unzip("archive.zip", exdir = "archive")
   unlink("archive.zip")
+  warning(list.files("archive", recursive=TRUE))
   dir.create(workingDirectory)
   projectFolder <- paste0(list.files("archive"), pattern = qualificationProject)
   file.copy(file.path("archive", projectFolder, "Evaluation", "Input"), workingDirectory, recursive = TRUE)
