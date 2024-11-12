@@ -40,6 +40,8 @@ runEvaluationReport <- function(modelIndex, modelsData, toolsData) {
   # In this repo, the snapshot is outside the evaluation folder and its path needs to be updated
   file.copy(file.path("archive", projectFolder, snapshotFile), workingDirectory, recursive = TRUE)
   unlink("archive", recursive = TRUE)
+  # Explore content of downloaded archive
+  warning(list.files("workingDirectory", recursive = TRUE))
 
   #' @description Code hereafter is adapted from `createQualificationReport()` template
   qualificationPlanName <- "evaluation_plan.json"
