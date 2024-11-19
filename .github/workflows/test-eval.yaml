@@ -36,3 +36,15 @@ jobs:
         git add --all -- :!QualificationRunner :!PK-Sim || echo "No changes"
         git commit -m "Added/modified evaluation reports" || echo "No changes to commit"
         git push origin
+
+# Create a pull request to the develop branch
+# Added reviewers/assignees for example
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v7
+        with:
+          branch: develop
+          title: 'Update Evaluation Reports'
+          body: |
+            Update Evaluation Reports #83
+          assignees: pchelle
+          reviewers: pchelle
