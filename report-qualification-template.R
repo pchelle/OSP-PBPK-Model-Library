@@ -34,16 +34,13 @@ runEvaluationReport <- function(modelIndex, modelsData, toolsData) {
   )
   unzip("archive.zip", exdir = "archive")
   unlink("archive.zip")
-  warning(list.files("archive", recursive=TRUE))
   dir.create(workingDirectory)
-  projectFolder <- paste0(list.files("archive"), pattern = qualificationProject)
+  projectFolder <- list.files("archive", pattern = qualificationProject)
   file.copy(file.path("archive", projectFolder, "Evaluation", "Input"), workingDirectory, recursive = TRUE)
   # In this repo, the snapshot is outside the evaluation folder and its path needs to be updated
   file.copy(file.path("archive", projectFolder, snapshotFile), workingDirectory, recursive = TRUE)
   unlink("archive", recursive = TRUE)
-  # Explore content of downloaded archive
-  warning(list.files("workingDirectory", recursive = TRUE))
-
+  
   #' @description Code hereafter is adapted from `createQualificationReport()` template
   qualificationPlanName <- "evaluation_plan.json"
   qualificationPlanFile <- file.path(workingDirectory, "input", qualificationPlanName)
