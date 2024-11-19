@@ -1,0 +1,3060 @@
+{
+  "SimulationMappings": [
+    {
+      "Project": "BAY 79-4620",
+      "Simulation": "BAY794620_autoradiography",
+      "Path": "BAY 79-4620/BAY794620_autoradiography/",
+      "SimulationFile": "BAY794620_autoradiography"
+    },
+    {
+      "Project": "BAY 79-4620",
+      "Simulation": "BAY794620_tissueDissection",
+      "Path": "BAY 79-4620/BAY794620_tissueDissection/",
+      "SimulationFile": "BAY794620_tissueDissection"
+    }
+  ],
+  "ObservedDataSets": [
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Blood.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Blood.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Blood.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Blood.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Fat.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Fat.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Fat.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Fat.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Brain.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Brain.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Brain.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Brain.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Heart.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Heart.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Heart.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Heart.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Kidney.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Kidney.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Kidney.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Kidney.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Liver.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Liver.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Liver.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Liver.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Lung.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Lung.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Lung.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Lung.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Ovaries.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Ovaries.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Ovaries.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Ovaries.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Pancreas.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Pancreas.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Pancreas.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Pancreas.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Muscle.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Muscle.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Muscle.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Muscle.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Skin.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Skin.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Skin.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Skin.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.SmallIntestine.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.SmallIntestine.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.SmallIntestine.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.SmallIntestine.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Spleen.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Spleen.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Spleen.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Spleen.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Stomach.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Stomach.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Stomach.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Stomach.2.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Tumor.1",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Tumor.1.csv"
+    },
+    {
+      "Id": "BAY794620_Autoradiography_PKSimImport.Tumor.2",
+      "Path": "ObservedData/BAY794620_Autoradiography_PKSimImport.Tumor.2.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Spleen",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Spleen.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Liver",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Liver.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Kidney",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Kidney.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Lung",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Lung.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Bone",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Bone.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Heart",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Heart.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Brain",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Brain.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Fat",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Fat.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Muscle",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Muscle.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Tumor",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Tumor.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Blood",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Blood.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Stomach",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Stomach.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Ovaries",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Ovaries.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Intestine",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Intestine.csv"
+    },
+    {
+      "Id": "BAY794620_TissueDissection_PKSimImport.Pancreas",
+      "Path": "ObservedData/BAY794620_TissueDissection_PKSimImport.Pancreas.csv"
+    }
+  ],
+  "Plots": {
+    "AxesSettings": {
+      "GOFMergedPlotsPredictedVsObserved": [
+        {
+          "Type": "X",
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Type": "Y",
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "GOFMergedPlotsResidualsOverTime": [
+        {
+          "Type": "X",
+          "Dimension": "Time",
+          "Unit": "h",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Type": "Y",
+          "Dimension": "Dimensionless",
+          "Unit": "",
+          "GridLines": false,
+          "Scaling": "Linear"
+        }
+      ],
+      "ComparisonTimeProfile": [
+        {
+          "Type": "X",
+          "Dimension": "Time",
+          "Unit": "h",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Type": "Y",
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "DDIRatioPlotsPredictedVsObserved": [
+        {
+          "Type": "X",
+          "Dimension": "Dimensionless",
+          "Unit": "",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Type": "Y",
+          "Dimension": "Dimensionless",
+          "Unit": "",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "DDIRatioPlotsResidualsVsObserved": [
+        {
+          "Type": "X",
+          "Dimension": "Dimensionless",
+          "Unit": "",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Type": "Y",
+          "Dimension": "Dimensionless",
+          "Unit": "",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "PKRatioPlots": [
+        {
+          "Type": "X",
+          "Dimension": "Age",
+          "Unit": "year(s)",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Type": "Y",
+          "Dimension": "Dimensionless",
+          "Unit": "",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ]
+    },
+    "PlotSettings": {
+      "ChartWidth": 500,
+      "ChartHeight": 400,
+      "Fonts": {
+        "AxisSize": 11,
+        "LegendSize": 9,
+        "OriginSize": 9,
+        "FontFamilyName": "Arial",
+        "WatermarkSize": 40
+      }
+    },
+    "GOFMergedPlots": [
+      {
+        "Title": "Goodness of fit plot for concentration in blood and tissues",
+        "SectionReference": "diagnostics-plots",
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure"
+        ],
+        "PlotTypes": [
+          "predictedVsObserved",
+          "residualsOverTime"
+        ],
+        "Groups": [
+          {
+            "Caption": "BAY 79-4620 - autoradiography",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|VenousBlood|BAY794620|Whole Blood",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Blood.1",
+                  "BAY794620_Autoradiography_PKSimImport.Blood.2"
+                ],
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Lung|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Lung.1",
+                  "BAY794620_Autoradiography_PKSimImport.Lung.2"
+                ],
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Kidney|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Kidney.1",
+                  "BAY794620_Autoradiography_PKSimImport.Kidney.2"
+                ],
+                "Color": "#FF8000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Skin|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Skin.1",
+                  "BAY794620_Autoradiography_PKSimImport.Skin.2"
+                ],
+                "Color": "#FF00FF"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Muscle|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Muscle.1",
+                  "BAY794620_Autoradiography_PKSimImport.Muscle.2"
+                ],
+                "Color": "#800080"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Spleen|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Spleen.1",
+                  "BAY794620_Autoradiography_PKSimImport.Spleen.2"
+                ],
+                "Color": "#00FF00"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Liver|BAY794620|Whole Organ incl. FcRn_Complex (Liver)-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Liver.1",
+                  "BAY794620_Autoradiography_PKSimImport.Liver.2"
+                ],
+                "Color": "#C04000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Heart|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Heart.1",
+                  "BAY794620_Autoradiography_PKSimImport.Heart.2"
+                ],
+                "Color": "#FF8080"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Fat|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Fat.1",
+                  "BAY794620_Autoradiography_PKSimImport.Fat.2"
+                ],
+                "Color": "#00C0C0"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Brain|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Brain.1",
+                  "BAY794620_Autoradiography_PKSimImport.Brain.2"
+                ],
+                "Color": "#008000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Stomach|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Stomach.1",
+                  "BAY794620_Autoradiography_PKSimImport.Stomach.2"
+                ],
+                "Color": "#8080FF"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Pancreas|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Pancreas.1",
+                  "BAY794620_Autoradiography_PKSimImport.Pancreas.2"
+                ],
+                "Color": "#C000C0"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|SmallIntestine|BAY794620|Whole Organ (Small Intestine) incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.SmallIntestine.1",
+                  "BAY794620_Autoradiography_PKSimImport.SmallIntestine.2"
+                ],
+                "Color": "#804040"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_autoradiography",
+                "Output": "Organism|Gonads|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": [
+                  "BAY794620_Autoradiography_PKSimImport.Ovaries.1",
+                  "BAY794620_Autoradiography_PKSimImport.Ovaries.2"
+                ],
+                "Color": "#C0C000"
+              }
+            ]
+          },
+          {
+            "Caption": "BAY 79-4620 - tissue dissection",
+            "Symbol": "Square",
+            "OutputMappings": [
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|VenousBlood|BAY794620|Whole Blood",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Blood",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Lung|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Lung",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Kidney|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Kidney",
+                "Color": "#FF8000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Bone|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Bone",
+                "Color": "#0000C0"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Muscle|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Muscle",
+                "Color": "#800080"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Spleen|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Spleen",
+                "Color": "#00FF00"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Liver|BAY794620|Whole Organ incl. FcRn_Complex (Liver)-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Liver",
+                "Color": "#C04000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Heart|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Heart",
+                "Color": "#FF8080"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Fat|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Fat",
+                "Color": "#00C0C0"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Brain|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Brain",
+                "Color": "#008000"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Stomach|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Stomach",
+                "Color": "#8080FF"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Pancreas|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Pancreas",
+                "Color": "#C000C0"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|SmallIntestine|BAY794620|Whole Organ (Small Intestine) incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Intestine",
+                "Color": "#804040"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|LargeIntestine|BAY794620|Whole Organ (Large Intestine) incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Intestine",
+                "Color": "#808080"
+              },
+              {
+                "Project": "BAY 79-4620",
+                "Simulation": "BAY794620_tissueDissection",
+                "Output": "Organism|Gonads|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+                "ObservedData": "BAY794620_TissueDissection_PKSimImport.Ovaries",
+                "Color": "#C0C000"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ComparisonTimeProfilePlots": [],
+    "DDIRatioPlots": [],
+    "PKRatioPlots": [],
+    "TimeProfile": [
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Venous Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|VenousBlood|BAY794620|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "Autoradiography.Blood.1-BAY794620-Blood-WholeBlood-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Blood.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Blood.1|ObservedData|Blood|WholeBlood|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Blood.2-BAY794620-Blood-WholeBlood-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Blood.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Blood.2|ObservedData|Blood|WholeBlood|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Blood - lin scale",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Venous Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|VenousBlood|BAY794620|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Blood.1-BAY794620-Blood-WholeBlood-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Blood.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Blood.1|ObservedData|Blood|WholeBlood|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Blood.2-BAY794620-Blood-WholeBlood-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Blood.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Blood.2|ObservedData|Blood|WholeBlood|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Blood - log scale",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Lung-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Lung|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Lung.1-BAY794620-Lung-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Lung.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Lung.1|ObservedData|Lung|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Lung.2-BAY794620-Lung-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Lung.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Lung.2|ObservedData|Lung|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Lung",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Kidney-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Kidney|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Kidney.1-BAY794620-Kidney-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Kidney.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Kidney.1|ObservedData|Kidney|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Kidney.2-BAY794620-Kidney-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Kidney.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Kidney.2|ObservedData|Kidney|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Kidney",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Skin-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Skin|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "Autoradiography.Skin.1-BAY794620-Skin-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Skin.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Skin.1|ObservedData|Skin|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Skin.2-BAY794620-Skin-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Skin.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Skin.2|ObservedData|Skin|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Skin",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Muscle-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Muscle|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Muscle.1-BAY794620-Muscle-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Muscle.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Muscle.1|ObservedData|Muscle|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Muscle.2-BAY794620-Muscle-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Muscle.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Muscle.2|ObservedData|Muscle|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Muscle",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Spleen-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Spleen|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Spleen.1-BAY794620-Spleen-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Spleen.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Spleen.1|ObservedData|Spleen|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Spleen.2-BAY794620-Spleen-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Spleen.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Spleen.2|ObservedData|Spleen|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Spleen",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Liver-Whole Organ incl. FcRn_Complex (Liver)-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Liver|BAY794620|Whole Organ incl. FcRn_Complex (Liver)-BAY794620",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Liver.1-BAY794620-Liver-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Liver.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Liver.1|ObservedData|Liver|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Liver.2-BAY794620-Liver-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Liver.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Liver.2|ObservedData|Liver|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Liver",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Heart-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Heart|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Heart.1-BAY794620-Heart-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Heart.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Heart.1|ObservedData|Heart|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Heart.2-BAY794620-Heart-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Heart.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Heart.2|ObservedData|Heart|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Heart",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Fat-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Fat|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Fat.1-BAY794620-Fat-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Fat.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Fat.1|ObservedData|Fat|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Fat.2-BAY794620-Fat-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Fat.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Fat.2|ObservedData|Fat|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Fat",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Brain-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Brain|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Brain.1-BAY794620-Brain-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Brain.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Brain.1|ObservedData|Brain|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Brain.2-BAY794620-Brain-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Brain.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Brain.2|ObservedData|Brain|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Brain",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Stomach-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Stomach|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Stomach.1-BAY794620-Stomach-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Stomach.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Stomach.1|ObservedData|Stomach|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Stomach.2-BAY794620-Stomach-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Stomach.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Stomach.2|ObservedData|Stomach|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Stomach",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Pancreas-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Pancreas|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Pancreas.1-BAY794620-Pancreas-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Pancreas.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Pancreas.1|ObservedData|Pancreas|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Pancreas.2-BAY794620-Pancreas-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Pancreas.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Pancreas.2|ObservedData|Pancreas|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Pancreas",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Small Intestine-Whole Organ (Small Intestine) incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|SmallIntestine|BAY794620|Whole Organ (Small Intestine) incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.SmallIntestine.1-BAY794620-SmallIntestine-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.SmallIntestine.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.SmallIntestine.1|ObservedData|SmallIntestine|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.SmallIntestine.2-BAY794620-SmallIntestine-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.SmallIntestine.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.SmallIntestine.2|ObservedData|SmallIntestine|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Small Intestine",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_autoradiography",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0001,
+              "Max": 0.1,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Gonads-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_autoradiography|Organism|Gonads|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Autoradiography.Ovaries.1-BAY794620-Ovaries-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Ovaries.1|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Ovaries.1|ObservedData|Ovaries|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Autoradiography.Ovaries.2-BAY794620-Ovaries-Tissue-Measurement",
+              "X": "BAY794620_Autoradiography_PKSimImport.Ovaries.2|Time",
+              "Y": "BAY794620_Autoradiography_PKSimImport.Ovaries.2|ObservedData|Ovaries|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Ovaries",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_autoradiography\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Venous Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|VenousBlood|BAY794620|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "TissueDissection.Blood-BAY794620-Blood-WholeBlood-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Blood|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Blood|ObservedData|Blood|WholeBlood|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Blood - lin scale",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Venous Blood-Whole Blood-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|VenousBlood|BAY794620|Whole Blood",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "TissueDissection.Blood-BAY794620-Blood-WholeBlood-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Blood|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Blood|ObservedData|Blood|WholeBlood|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Blood - log scale",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Lung-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Lung|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "TissueDissection.Lung-BAY794620-Lung-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Lung|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Lung|ObservedData|Lung|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Lung",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Kidney-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Kidney|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 9
+              }
+            },
+            {
+              "Name": "TissueDissection.Kidney-BAY794620-Kidney-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Kidney|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Kidney|ObservedData|Kidney|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Kidney",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Bone-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Bone|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#0000C0",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "TissueDissection.Bone-BAY794620-Bone-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Bone|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Bone|ObservedData|Bone|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#0000C0",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Bone",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Muscle-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Muscle|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "TissueDissection.Muscle-BAY794620-Muscle-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Muscle|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Muscle|ObservedData|Muscle|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Muscle",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Spleen-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Spleen|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 14
+              }
+            },
+            {
+              "Name": "TissueDissection.Spleen-BAY794620-Spleen-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Spleen|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Spleen|ObservedData|Spleen|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Spleen",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Liver-Whole Organ incl. FcRn_Complex (Liver)-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Liver|BAY794620|Whole Organ incl. FcRn_Complex (Liver)-BAY794620",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 12
+              }
+            },
+            {
+              "Name": "TissueDissection.Liver-BAY794620-Liver-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Liver|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Liver|ObservedData|Liver|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Liver",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Heart-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Heart|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 10
+              }
+            },
+            {
+              "Name": "TissueDissection.Heart-BAY794620-Heart-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Heart|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Heart|ObservedData|Heart|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Heart",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Fat-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Fat|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 11
+              }
+            },
+            {
+              "Name": "TissueDissection.Fat-BAY794620-Fat-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Fat|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Fat|ObservedData|Fat|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#00C0C0",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Fat",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Brain-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Brain|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "TissueDissection.Brain-BAY794620-Brain-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Brain|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Brain|ObservedData|Brain|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Brain",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Stomach-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Stomach|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 6
+              }
+            },
+            {
+              "Name": "TissueDissection.Stomach-BAY794620-Stomach-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Stomach|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Stomach|ObservedData|Stomach|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#8080FF",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Stomach",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Pancreas-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Pancreas|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 13
+              }
+            },
+            {
+              "Name": "TissueDissection.Pancreas-BAY794620-Pancreas-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Pancreas|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Pancreas|ObservedData|Pancreas|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C000C0",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Pancreas",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Small Intestine-Whole Organ (Small Intestine) incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|SmallIntestine|BAY794620|Whole Organ (Small Intestine) incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "BAY794620-Large Intestine-Whole Organ (Large Intestine) incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|LargeIntestine|BAY794620|Whole Organ (Large Intestine) incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "TissueDissection.Intestine-BAY794620-Intestine-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Intestine|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Intestine|ObservedData|Intestine|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Intestine",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      },
+      {
+        "Project": "BAY 79-4620",
+        "Simulation": "BAY794620_tissueDissection",
+        "SectionReference": "ct-profiles",
+        "Plot": {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 1E-06,
+              "Max": 0.001,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "BAY794620-Gonads-Whole Organ incl. FcRn_Complex-BAY794620-Concentration",
+              "X": "Time",
+              "Y": "BAY794620_tissueDissection|Organism|Gonads|BAY794620|Whole Organ incl. FcRn_Complex-BAY794620",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "TissueDissection.Ovaries-BAY794620-Ovaries-Tissue-Measurement",
+              "X": "BAY794620_TissueDissection_PKSimImport.Ovaries|Time",
+              "Y": "BAY794620_TissueDissection_PKSimImport.Ovaries|ObservedData|Ovaries|Tissue|BAY794620|Measurement",
+              "CurveOptions": {
+                "Color": "#C0C000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Ovaries",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "BAY794620\nBAY794620_tissueDissection\n2023-03-14 09:12"
+        }
+      }
+    ]
+  },
+  "Inputs": [
+    {
+      "SectionReference": "final-input-parameters",
+      "Path": "Inputs/BAY 79-4620/Compound/BAY794620.md"
+    }
+  ],
+  "Sections": [
+    {
+      "Reference": "introduction",
+      "Title": "Introduction",
+      "Content": "Content/Section1_Introduction.md",
+      "Sections": []
+    },
+    {
+      "Reference": "methods",
+      "Title": "Methods",
+      "Sections": [
+        {
+          "Reference": "modeling-strategy",
+          "Title": "Modeling Strategy",
+          "Content": "Content/Section2.1_Modeling_Strategy.md",
+          "Sections": []
+        },
+        {
+          "Reference": "methods-data",
+          "Title": "Data",
+          "Content": "Content/Section2.2_Data.md",
+          "Sections": []
+        },
+        {
+          "Reference": "model-parameters-and-assumptions",
+          "Title": "Model Parameters and Assumptions",
+          "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md",
+          "Sections": []
+        }
+      ]
+    },
+    {
+      "Reference": "results-and-discussion",
+      "Title": "Results and Discussion",
+      "Content": "Content/Section3_Results_and_Discussion.md",
+      "Sections": [
+        {
+          "Reference": "final-input-parameters",
+          "Title": "Final input parameters",
+          "Content": "Content/Input_table.md",
+          "Sections": []
+        },
+        {
+          "Reference": "diagnostics-plots",
+          "Title": "Diagnostics Plots",
+          "Content": "Content/GOF_diagnostics.md",
+          "Sections": []
+        },
+        {
+          "Reference": "ct-profiles",
+          "Title": "Concentration-Time Profiles",
+          "Content": "Content/Concentration_time_profiles.md",
+          "Sections": []
+        }
+      ]
+    },
+    {
+      "Reference": "conclusion",
+      "Title": "Conclusion",
+      "Content": "Content/Conclusion.md",
+      "Sections": []
+    },
+    {
+      "Reference": "main-references",
+      "Title": "References",
+      "Content": "Content/References.md",
+      "Sections": []
+    }
+  ],
+  "Intro": [
+    {
+      "Path": "Intro/titlepage.md"
+    }
+  ]
+}

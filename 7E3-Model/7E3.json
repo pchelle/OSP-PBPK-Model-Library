@@ -1,0 +1,5085 @@
+{
+  "Version": 79,
+  "Individuals": [
+    {
+      "Name": "Mouse",
+      "Seed": 3436828,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1"
+        ],
+        "Species": "Mouse"
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Bone|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Brain|Fraction of blood for sampling",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4), experimental brain conc. corrected for residual blood"
+          }
+        },
+        {
+          "Path": "Organism|Fat|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Gonads|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Heart|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Kidney|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|Caecum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|Rectum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Liver|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Lung|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Muscle|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Pancreas|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Skin|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Spleen|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Stomach|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        }
+      ],
+      "ExpressionProfiles": []
+    },
+    {
+      "Name": "Mouse_FcRn_KO",
+      "Seed": 3436828,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1"
+        ],
+        "Species": "Mouse"
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Bone|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Brain|Fraction of blood for sampling",
+          "Value": 0.0,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4), experimental brain conc. corrected for residual blood"
+          }
+        },
+        {
+          "Path": "Organism|EndogenousIgG|Endosome|Start concentration of free FcRn (endosome)",
+          "Value": 0.0,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Id": 26,
+            "Source": "Other",
+            "Description": "FcRn knockout"
+          }
+        },
+        {
+          "Path": "Organism|Fat|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Gonads|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Heart|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Kidney|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|Caecum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|Rectum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Liver|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Lung|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Muscle|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Pancreas|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Skin|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Spleen|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        },
+        {
+          "Path": "Organism|Stomach|Fraction of blood for sampling",
+          "Value": 0.18,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Niederalt2018 (doi: 10.1007/s10928-017-9559-4)"
+          }
+        }
+      ],
+      "ExpressionProfiles": []
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "7E3",
+      "IsSmallMolecule": false,
+      "Lipophilicity": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": -5.0,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "/Dummy value not used in the simulation"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "Assumption"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 9999.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "/Dummy value not used in the simulation"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "/Dummy value not used in the simulation"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 150000.0,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Lobo2004"
+          }
+        },
+        {
+          "Name": "Radius (solute)",
+          "Value": 0.00534,
+          "Unit": "µm",
+          "ValueOrigin": {
+            "Id": 26,
+            "Source": "Publication",
+            "Description": "Taylor1984"
+          }
+        },
+        {
+          "Name": "Kd (FcRn) in endosomal space",
+          "Value": 0.75,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Id": 26,
+            "Source": "Publication",
+            "Description": "Zhou2003"
+          }
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "IV_8mgkg",
+      "ApplicationType": "Intravenous",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 8.0,
+          "Unit": "mg/kg"
+        },
+        {
+          "Name": "Infusion time",
+          "Value": 0.1,
+          "Unit": "s"
+        }
+      ]
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "7E3_WildTypeMouse",
+      "Model": "TwoPores",
+      "ObservedData": [
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 240.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|IV_8mgkg|Application_1|ProtocolSchemaItem|Infusion time",
+          "Value": 0.0016666666667,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|VenousBlood|Plasma|7E3|Concentration in container",
+        "Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+        "Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|SmallIntestine|7E3|Whole Organ (Small Intestine) incl. FcRn_Complex-7E3",
+        "Organism|LargeIntestine|7E3|Whole Organ (Large Intestine) incl. FcRn_Complex-7E3"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse|Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5"
+        }
+      ],
+      "Individual": "Mouse",
+      "Compounds": [
+        {
+          "Name": "7E3",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Protocol": {
+            "Name": "IV_8mgkg"
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Lung-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "WildType.Lung.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Lung (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Kidney-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "WildType.Kidney.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Kidney (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Skin-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 5
+              }
+            },
+            {
+              "Name": "WildType.Skin.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Skin (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Muscle-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 6
+              }
+            },
+            {
+              "Name": "WildType.Muscle.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Muscle (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Spleen-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "WildType.Spleen.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Spleen (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Liver-Whole Organ incl. FcRn_Complex (Liver)-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 8
+              }
+            },
+            {
+              "Name": "WildType.Liver.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Liver (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Heart-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 9
+              }
+            },
+            {
+              "Name": "WildType.Heart.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Heart (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Large Intestine-Whole Organ (Large Intestine) incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|LargeIntestine|7E3|Whole Organ (Large Intestine) incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 11
+              }
+            },
+            {
+              "Name": "7E3-Small Intestine-Whole Organ (Small Intestine) incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|SmallIntestine|7E3|Whole Organ (Small Intestine) incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 10
+              }
+            },
+            {
+              "Name": "WildType.Gut.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Gut (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Brain-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse|Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "WildType.Brain.Tissue.Garg2009-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Brain (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+        }
+      ]
+    },
+    {
+      "Name": "7E3_FcRn_KO_Mouse",
+      "Model": "TwoPores",
+      "ObservedData": [
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 100.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|IV_8mgkg|Application_1|ProtocolSchemaItem|Infusion time",
+          "Value": 0.0016666666667,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|VenousBlood|Plasma|7E3|Concentration in container",
+        "Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+        "Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|LargeIntestine|7E3|Whole Organ (Large Intestine) incl. FcRn_Complex-7E3",
+        "Organism|SmallIntestine|7E3|Whole Organ (Small Intestine) incl. FcRn_Complex-7E3",
+        "Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_FcRn_KO_Mouse|Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+          "ObservedData": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5"
+        }
+      ],
+      "Individual": "Mouse_FcRn_KO",
+      "Compounds": [
+        {
+          "Name": "7E3",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Protocol": {
+            "Name": "IV_8mgkg"
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "FcRnKO.VenousBlood.Plasma.Garg2009-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "InvertedTriangle"
+              }
+            },
+            {
+              "Name": "FcRnKO.VenousBlood.Plasma.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Triangle"
+              }
+            },
+            {
+              "Name": "FcRnKO.VenousBlood.Plasma.Garg2007Fig3-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Plasma (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Lung-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 7
+              }
+            },
+            {
+              "Name": "FcRnKO.Lung.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 8,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Lung (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Kidney-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 8
+              }
+            },
+            {
+              "Name": "FcRnKO.Kidney.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Kidney (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Skin-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 9
+              }
+            },
+            {
+              "Name": "FcRnKO.Skin.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Skin (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Muscle-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 10
+              }
+            },
+            {
+              "Name": "FcRnKO.Muscle.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#800080",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Muscle (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Spleen-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 11
+              }
+            },
+            {
+              "Name": "FcRnKO.Spleen.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#00FF00",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Spleen (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Liver-Whole Organ incl. FcRn_Complex (Liver)-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 12
+              }
+            },
+            {
+              "Name": "FcRnKO.Liver.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#C04000",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Liver (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Heart-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 13
+              }
+            },
+            {
+              "Name": "FcRnKO.Heart.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8080",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Heart (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Large Intestine-Whole Organ (Large Intestine) incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|LargeIntestine|7E3|Whole Organ (Large Intestine) incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#808080",
+                "LegendIndex": 14
+              }
+            },
+            {
+              "Name": "7E3-Small Intestine-Whole Organ (Small Intestine) incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|SmallIntestine|7E3|Whole Organ (Small Intestine) incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 15
+              }
+            },
+            {
+              "Name": "FcRnKO.Gut.Tissue.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#804040",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Gut (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 5E-05,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Brain-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+              "X": "Time",
+              "Y": "7E3_FcRn_KO_Mouse|Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "FcRnKO.Brain.Tissue.Garg2009-Measurement",
+              "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009|Time",
+              "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Brain (FcRn KO mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+        }
+      ]
+    },
+    {
+      "Name": "7E3_WildTypeMouse_Plasma",
+      "Model": "TwoPores",
+      "ObservedData": [
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 1440.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|IV_8mgkg|Application_1|ProtocolSchemaItem|Infusion time",
+          "Value": 0.0016666666667,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|VenousBlood|Plasma|7E3|Concentration in container",
+        "Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+        "Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+        "Organism|SmallIntestine|7E3|Whole Organ (Small Intestine) incl. FcRn_Complex-7E3",
+        "Organism|LargeIntestine|7E3|Whole Organ (Large Intestine) incl. FcRn_Complex-7E3"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse_Plasma|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse_Plasma|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "7E3_WildTypeMouse_Plasma|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+          "ObservedData": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009"
+        }
+      ],
+      "Individual": "Mouse",
+      "Compounds": [
+        {
+          "Name": "7E3",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Protocol": {
+            "Name": "IV_8mgkg"
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse_Plasma|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "WildType.VenousBlood.Plasma.Garg2009-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "InvertedTriangle"
+              }
+            },
+            {
+              "Name": "WildType.VenousBlood.Plasma.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Triangle"
+              }
+            },
+            {
+              "Name": "WildType.VenousBlood.Plasma.Garg2007Fig3-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Plasma - lin scale  (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse_Plasma\n2023-03-02 17:46"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.0006,
+              "Max": 1.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "7E3-Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "7E3_WildTypeMouse_Plasma|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "WildType.VenousBlood.Plasma.Garg2009-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4,
+                "LineStyle": "None",
+                "Symbol": "InvertedTriangle"
+              }
+            },
+            {
+              "Name": "WildType.VenousBlood.Plasma.Garg2007Fig5-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Triangle"
+              }
+            },
+            {
+              "Name": "WildType.VenousBlood.Plasma.Garg2007Fig3-Measurement",
+              "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|Time",
+              "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Plasma - log scale (wild-type mice)",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "7E3\n7E3_WildTypeMouse_Plasma\n2023-03-02 17:46"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "VenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                55.18835,
+                0.0,
+                0.0,
+                0.0,
+                19.5367889,
+                33.1905174,
+                10.29574,
+                11.20387
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            1.035232,
+            0.6000611,
+            0.474998,
+            0.2925266,
+            0.2356028,
+            0.1582152,
+            0.1138652,
+            0.03926313
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          2.0,
+          12.0,
+          24.0,
+          168.0,
+          336.0,
+          552.0,
+          720.0,
+          1440.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "VenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                83.31555,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            1.017107,
+            0.6325648,
+            0.4505835,
+            0.3934082,
+            0.3377109,
+            0.2802295,
+            0.2574432
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Heart",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                14.76464,
+                0.0,
+                8.726944,
+                13.7738295,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1083904,
+            0.07987192,
+            0.07214317,
+            0.05593685,
+            0.05138845,
+            0.03420346,
+            0.02986332
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Lung",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1349388,
+            0.118944,
+            0.1328274,
+            0.1032045,
+            0.08954778,
+            0.06741664,
+            0.05667933,
+            0.05238152,
+            0.04134646
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Liver",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                13.99073,
+                0.0,
+                9.464526,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1465722,
+            0.1392873,
+            0.08086285,
+            0.07058436,
+            0.05287462,
+            0.04774928,
+            0.04097756,
+            0.03399111
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Spleen",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                6.230438,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1083904,
+            0.09147996,
+            0.08262797,
+            0.06627699,
+            0.05138845,
+            0.03660462,
+            0.0330626,
+            0.03037418
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Muscle",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.01117015,
+            0.01301975,
+            0.01570122,
+            0.01738985,
+            0.01370199,
+            0.0134707,
+            0.0104348
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Skin",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.02144556,
+            0.02577375,
+            0.02774047,
+            0.06115432,
+            0.06582082,
+            0.05182877,
+            0.03862125,
+            0.03588312
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Gut",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.05986375,
+            0.06406633,
+            0.03851548,
+            0.02986332,
+            0.01735444,
+            0.01515231,
+            0.01489746,
+            0.01135661
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Kidney",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1620246,
+            0.122976,
+            0.1121761,
+            0.1042231,
+            0.07349664,
+            0.05279039,
+            0.0365489,
+            0.03588312,
+            0.03333912
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "VenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2009",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.9203732,
+            0.8126619,
+            0.6883952,
+            0.6078323,
+            0.473888,
+            0.3931829,
+            0.3262222,
+            0.2763385,
+            0.2596656
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_WildType",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Brain",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2009",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.804351151,
+                0.725695252,
+                0.70094496,
+                0.228280589,
+                0.4539541,
+                0.349214584,
+                0.152598992,
+                0.149759486,
+                0.153921008
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.001902301,
+            0.0007959777,
+            0.001205261,
+            0.0007325966,
+            0.001393619,
+            0.0009203732,
+            0.0007479523,
+            0.0006335805,
+            0.0004939622
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          96.0,
+          168.0,
+          240.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "VenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig3",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                59.32874,
+                59.09604,
+                14.84557,
+                0.0,
+                0.2921028,
+                4.816311
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.7915826,
+            0.4318554,
+            0.2376511,
+            0.08706621,
+            0.03359818,
+            0.01680985
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          2.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "VenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                318.2417,
+                126.801,
+                32.5060425,
+                17.11784,
+                4.906994
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.571355,
+            0.2488562,
+            0.06973684,
+            0.02607392,
+            0.00808945
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Heart",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                15.31298,
+                3.023196,
+                2.24997282,
+                0.489684
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1241431,
+            0.08262797,
+            0.05986375,
+            0.03420346,
+            0.008227833,
+            0.003523395,
+            0.001295206
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Lung",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                13.56888,
+                18.68113,
+                4.875421,
+                2.574424,
+                0.822694659
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1506892,
+            0.06848831,
+            0.04403881,
+            0.01328274,
+            0.004917913,
+            0.001939417
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Liver",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                15.52204,
+                4.608256,
+                2.089777,
+                1.21194494
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1623051,
+            0.1116787,
+            0.05287462,
+            0.03700545,
+            0.01290331,
+            0.004982152,
+            0.001828069
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Spleen",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                27.7184811,
+                6.36958265,
+                18.5908184,
+                5.823311,
+                1.96659613,
+                0.5586245
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.135131,
+            0.05689374,
+            0.04337113,
+            0.0130071,
+            0.00439264,
+            0.00167046
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Muscle",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                13.80987,
+                8.457428,
+                2.75619,
+                1.006987,
+                0.696864,
+                0.1552445
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.03615976,
+            0.01861532,
+            0.008506672,
+            0.003223428,
+            0.001200832,
+            0.0004628437
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Skin",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                4.38031769,
+                2.766333,
+                1.73003006,
+                0.400351316
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.03522948,
+            0.03041123,
+            0.03273181,
+            0.01379496,
+            0.008712038,
+            0.003671726,
+            0.001491601
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          2.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Gut",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                8.02775,
+                2.83826184,
+                0.7719283,
+                1.09667706,
+                0.244452417
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.02790437,
+            0.01541151,
+            0.003900859,
+            0.00167046,
+            0.0005835985
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Kidney",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2007Fig5",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                15.9136505,
+                6.569744,
+                4.166854,
+                2.97404981,
+                3.663083
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.1042231,
+            0.07486029,
+            0.03588312,
+            0.01354368,
+            0.006143603,
+            0.004025228
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "VenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2009",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            1.024621,
+            0.8854888,
+            0.7113981,
+            0.5715342,
+            0.2822957,
+            0.0777759,
+            0.03571222,
+            0.01452017
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Data_FcRnKO",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Brain",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Tissue",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "7E3",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Mouse",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Garg2009",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 150000.0
+              },
+              "Values": [
+                0.1528127,
+                0.118238,
+                0.287612826,
+                0.1565558,
+                0.128889114,
+                0.0230005216,
+                0.07475245,
+                0.0220255014
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "nM"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 150000.0
+          },
+          "Values": [
+            0.0008642108,
+            0.001275363,
+            0.001626551,
+            0.001,
+            0.0007289136,
+            0.0001693843,
+            8.999644E-05,
+            5.951794E-05
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          6.0,
+          12.0,
+          24.0,
+          48.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "WT",
+      "Classifiables": [
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009",
+        "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009"
+      ]
+    },
+    {
+      "Name": "KO",
+      "Classifiables": [
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009",
+        "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009"
+      ]
+    }
+  ]
+}

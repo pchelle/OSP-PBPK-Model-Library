@@ -1,0 +1,435 @@
+19/11/2024 - 11:45:00
+In rmarkdown::render:
+Path: 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output' already exists.
+19/11/2024 - 11:45:01
+Simulation file 'Simulation file 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input/7E3/7E3_WildTypeMouse_Plasma//7E3_WildTypeMouse_Plasma.pkml' successfully loaded' successfully loaded
+19/11/2024 - 11:45:02
+Simulation file 'Simulation file 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input/7E3/7E3_WildTypeMouse//7E3_WildTypeMouse.pkml' successfully loaded' successfully loaded
+19/11/2024 - 11:45:03
+Simulation file 'Simulation file 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input/7E3/7E3_FcRn_KO_Mouse//7E3_FcRn_KO_Mouse.pkml' successfully loaded' successfully loaded
+19/11/2024 - 11:45:07
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3' included 3 columns and 8 rows
+19/11/2024 - 11:45:07
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:07
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009' included 3 columns and 9 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5' included 3 columns and 9 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5' included 3 columns and 9 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:45:08
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009' included 3 columns and 9 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3' included 3 columns and 6 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5' included 3 columns and 5 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009' included 3 columns and 8 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:45:09
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:10
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:10
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5' included 3 columns and 5 rows
+19/11/2024 - 11:45:10
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5' included 3 columns and 5 rows
+19/11/2024 - 11:45:10
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009' included 3 columns and 8 rows
+19/11/2024 - 11:45:12
+Table 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/008_section_diagnostics-plots/1_gof_gmfe.csv' was successfully saved.
+19/11/2024 - 11:45:13
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/008_section_diagnostics-plots/2_gof_plot_predictedVsObserved.png' was successfully saved.
+19/11/2024 - 11:45:14
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/008_section_diagnostics-plots/3_gof_plot_residualsOverTime.png' was successfully saved.
+19/11/2024 - 11:45:14
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009' included 3 columns and 9 rows
+19/11/2024 - 11:45:14
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:14
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3' included 3 columns and 8 rows
+19/11/2024 - 11:45:31
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009' included 3 columns and 9 rows
+19/11/2024 - 11:45:31
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:45:31
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3' included 3 columns and 8 rows
+19/11/2024 - 11:45:47
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse_Plasma
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 1 (json numbering starting at 0);  2 (actual plot index)
+
+19/11/2024 - 11:45:48
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5' included 3 columns and 9 rows
+19/11/2024 - 11:45:51
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 2 (json numbering starting at 0);  3 (actual plot index)
+
+19/11/2024 - 11:45:51
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5' included 3 columns and 9 rows
+19/11/2024 - 11:45:55
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 3 (json numbering starting at 0);  4 (actual plot index)
+
+19/11/2024 - 11:45:55
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:45:59
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 4 (json numbering starting at 0);  5 (actual plot index)
+
+19/11/2024 - 11:46:00
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:46:04
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 5 (json numbering starting at 0);  6 (actual plot index)
+
+19/11/2024 - 11:46:04
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:46:08
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 6 (json numbering starting at 0);  7 (actual plot index)
+
+19/11/2024 - 11:46:09
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:46:12
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 7 (json numbering starting at 0);  8 (actual plot index)
+
+19/11/2024 - 11:46:13
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:46:16
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 8 (json numbering starting at 0);  9 (actual plot index)
+
+19/11/2024 - 11:46:17
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5' included 3 columns and 8 rows
+19/11/2024 - 11:46:24
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 9 (json numbering starting at 0);  10 (actual plot index)
+
+19/11/2024 - 11:46:25
+Observed data Id 'Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009' included 3 columns and 9 rows
+19/11/2024 - 11:46:29
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_WildTypeMouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 10 (json numbering starting at 0);  11 (actual plot index)
+
+19/11/2024 - 11:46:29
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009' included 3 columns and 8 rows
+19/11/2024 - 11:46:29
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5' included 3 columns and 5 rows
+19/11/2024 - 11:46:29
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3' included 3 columns and 6 rows
+19/11/2024 - 11:46:32
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 11 (json numbering starting at 0);  12 (actual plot index)
+
+19/11/2024 - 11:46:32
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:46:34
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 12 (json numbering starting at 0);  13 (actual plot index)
+
+19/11/2024 - 11:46:35
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:46:37
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 13 (json numbering starting at 0);  14 (actual plot index)
+
+19/11/2024 - 11:46:37
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:46:40
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 14 (json numbering starting at 0);  15 (actual plot index)
+
+19/11/2024 - 11:46:40
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:46:43
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 15 (json numbering starting at 0);  16 (actual plot index)
+
+19/11/2024 - 11:46:43
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5' included 3 columns and 6 rows
+19/11/2024 - 11:46:46
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 16 (json numbering starting at 0);  17 (actual plot index)
+
+19/11/2024 - 11:46:46
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:46:49
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 17 (json numbering starting at 0);  18 (actual plot index)
+
+19/11/2024 - 11:46:49
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5' included 3 columns and 7 rows
+19/11/2024 - 11:46:52
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 18 (json numbering starting at 0);  19 (actual plot index)
+
+19/11/2024 - 11:46:52
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5' included 3 columns and 5 rows
+19/11/2024 - 11:46:56
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 19 (json numbering starting at 0);  20 (actual plot index)
+
+19/11/2024 - 11:46:56
+Observed data Id 'Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009' included 3 columns and 8 rows
+19/11/2024 - 11:46:58
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: 7E3
+Simulation: 7E3_FcRn_KO_Mouse
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 20 (json numbering starting at 0);  21 (actual plot index)
+
+19/11/2024 - 11:46:59
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/1_time_profile_plot_7E3_7E3_WildTypeMouse_Plasma.png' was successfully saved.
+19/11/2024 - 11:46:59
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:46:59
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:00
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/2_time_profile_plot_7E3_7E3_WildTypeMouse_Plasma.png' was successfully saved.
+19/11/2024 - 11:47:00
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:00
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:00
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/3_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:00
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:01
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:01
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/4_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:01
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:01
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:02
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/5_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:02
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:02
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:03
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/6_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:03
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:03
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:03
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/7_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:03
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:04
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:04
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/8_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:04
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:04
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:05
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/9_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:05
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:05
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:06
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/10_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:06
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:06
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:06
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/11_time_profile_plot_7E3_7E3_WildTypeMouse.png' was successfully saved.
+19/11/2024 - 11:47:06
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:07
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:07
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/12_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:07
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:07
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:08
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/13_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:08
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:08
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:09
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/14_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:09
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:09
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:10
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/15_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:10
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:10
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:10
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/16_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:10
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:11
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:11
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/17_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:11
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:11
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:12
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/18_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:12
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:12
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:13
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/19_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:13
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:13
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:14
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/20_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:14
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:14
+Transformation introduced infinite values in continuous y-axis
+19/11/2024 - 11:47:14
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/21_time_profile_plot_7E3_7E3_FcRn_KO_Mouse.png' was successfully saved.
+19/11/2024 - 11:47:14
+Reports 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/001_Introduction.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/002_Methods.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/003_Modeling_Strategy.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/004_Data.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/005_Model_Parameters_and_Assumptions.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/006_Results_and_Discussion.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/007_Final_input_parameters.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/008_Diagnostics_Plots.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/009_Concentration_Time_Profiles.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/010_Conclusion.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/011_References.md' were successfully merged into 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md'
+19/11/2024 - 11:47:15
+In 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md', 0.666666666666667 tables and 23 figures were referenced.
+19/11/2024 - 11:47:15
+In 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md', 5 sections were numbered
+19/11/2024 - 11:47:15
+In 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md', table of content of 18 lines was included.
+19/11/2024 - 11:47:15
+'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md' already exists. Overwriting 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md'.
+19/11/2024 - 11:47:15
+Reports 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/000_Intro.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md' were successfully merged into 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_output/Report.md'

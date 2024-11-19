@@ -1,0 +1,37 @@
+{
+  "Project": "BAY 79-4620",
+  "SnapshotFile": "D:\\a\\OSP-PBPK-Model-Library\\OSP-PBPK-Model-Library\\BAY794620-Model\\input\\../BAY794620.json",
+  "OutputFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input",
+  "ObservedDataFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input\\ObservedData",
+  "InputsFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input\\Inputs",
+  "MappingFile": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input\\temp\\BAY 79-4620\\mapping.json",
+  "TempFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input\\temp\\BAY 79-4620",
+  "ReportConfigurationFile": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input\\report-configuration-plan.json",
+  "SimulationPlots": [
+    {
+      "Simulation": "BAY794620_autoradiography",
+      "Project": "BAY 79-4620",
+      "SectionReference": "ct-profiles"
+    },
+    {
+      "Simulation": "BAY794620_tissueDissection",
+      "Project": "BAY 79-4620",
+      "SectionReference": "ct-profiles"
+    }
+  ],
+  "Inputs": [
+    {
+      "Type": "Compound",
+      "Name": "BAY794620",
+      "Project": "BAY 79-4620",
+      "SectionReference": "final-input-parameters",
+      "SectionLevel": 3
+    }
+  ],
+  "BuildingBlocks": [],
+  "SimulationParameters": [],
+  "Simulations": [
+    "BAY794620_autoradiography",
+    "BAY794620_tissueDissection"
+  ]
+}
