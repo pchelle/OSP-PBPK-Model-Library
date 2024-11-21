@@ -1,0 +1,6 @@
+21/11/2024 - 08:28:46
+strings not representable in native encoding will be translated to UTF-8
+21/11/2024 - 08:28:46
+input string 'Âµ|Î¼|µ' cannot be translated to UTF-8, is it valid in 'UTF-8' ?
+21/11/2024 - 08:28:46
+input string 'Âµ|Î¼|µ' cannot be translated to UTF-8, is it valid in 'UTF-8' ?

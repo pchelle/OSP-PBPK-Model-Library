@@ -1,0 +1,625 @@
+21/11/2024 - 08:31:24
+In rmarkdown::render:
+Path: 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output' already exists.
+21/11/2024 - 08:31:25
+Simulation file 'Simulation file 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input/BAY 79-4620/BAY794620_autoradiography//BAY794620_autoradiography.pkml' successfully loaded' successfully loaded
+21/11/2024 - 08:31:26
+Simulation file 'Simulation file 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_input/BAY 79-4620/BAY794620_tissueDissection//BAY794620_tissueDissection.pkml' successfully loaded' successfully loaded
+21/11/2024 - 08:31:28
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Blood.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:28
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Blood.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Lung.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Lung.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Kidney.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Kidney.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Skin.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Skin.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Muscle.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Muscle.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Spleen.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Spleen.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Liver.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Liver.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Heart.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Heart.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Fat.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Fat.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Brain.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Brain.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Stomach.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Stomach.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Pancreas.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Pancreas.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.SmallIntestine.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.SmallIntestine.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Ovaries.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:29
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Ovaries.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Blood' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Lung' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Kidney' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Bone' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Muscle' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Spleen' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Liver' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Heart' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Fat' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Brain' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Stomach' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Pancreas' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Intestine' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Intestine' included 3 columns and 6 rows
+21/11/2024 - 08:31:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Ovaries' included 3 columns and 6 rows
+21/11/2024 - 08:31:32
+Table 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/008_section_diagnostics-plots/1_gof_gmfe.csv' was successfully saved.
+21/11/2024 - 08:31:33
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/008_section_diagnostics-plots/2_gof_plot_predictedVsObserved.png' was successfully saved.
+21/11/2024 - 08:31:34
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/008_section_diagnostics-plots/3_gof_plot_residualsOverTime.png' was successfully saved.
+21/11/2024 - 08:31:34
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Blood.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:34
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Blood.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:37
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Blood.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:37
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Blood.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:40
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 1 (json numbering starting at 0);  2 (actual plot index)
+
+21/11/2024 - 08:31:41
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Lung.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:41
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Lung.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:44
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 2 (json numbering starting at 0);  3 (actual plot index)
+
+21/11/2024 - 08:31:44
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Kidney.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:44
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Kidney.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:47
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 3 (json numbering starting at 0);  4 (actual plot index)
+
+21/11/2024 - 08:31:47
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Skin.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:47
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Skin.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:50
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 4 (json numbering starting at 0);  5 (actual plot index)
+
+21/11/2024 - 08:31:50
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Muscle.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:50
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Muscle.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:53
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 5 (json numbering starting at 0);  6 (actual plot index)
+
+21/11/2024 - 08:31:54
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Spleen.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:54
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Spleen.2' included 2 columns and 7 rows
+21/11/2024 - 08:31:56
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 6 (json numbering starting at 0);  7 (actual plot index)
+
+21/11/2024 - 08:31:57
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Liver.1' included 2 columns and 6 rows
+21/11/2024 - 08:31:57
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Liver.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:00
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 7 (json numbering starting at 0);  8 (actual plot index)
+
+21/11/2024 - 08:32:00
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Heart.1' included 2 columns and 6 rows
+21/11/2024 - 08:32:00
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Heart.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:03
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 8 (json numbering starting at 0);  9 (actual plot index)
+
+21/11/2024 - 08:32:03
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Fat.1' included 2 columns and 6 rows
+21/11/2024 - 08:32:03
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Fat.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:06
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 9 (json numbering starting at 0);  10 (actual plot index)
+
+21/11/2024 - 08:32:07
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Brain.1' included 2 columns and 6 rows
+21/11/2024 - 08:32:07
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Brain.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:10
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 10 (json numbering starting at 0);  11 (actual plot index)
+
+21/11/2024 - 08:32:10
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Stomach.1' included 2 columns and 6 rows
+21/11/2024 - 08:32:10
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Stomach.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:13
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 11 (json numbering starting at 0);  12 (actual plot index)
+
+21/11/2024 - 08:32:13
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Pancreas.1' included 2 columns and 6 rows
+21/11/2024 - 08:32:13
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Pancreas.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:16
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 12 (json numbering starting at 0);  13 (actual plot index)
+
+21/11/2024 - 08:32:17
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.SmallIntestine.1' included 2 columns and 6 rows
+21/11/2024 - 08:32:17
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.SmallIntestine.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:20
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 13 (json numbering starting at 0);  14 (actual plot index)
+
+21/11/2024 - 08:32:21
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Ovaries.1' included 2 columns and 6 rows
+21/11/2024 - 08:32:21
+Observed data Id 'BAY794620_Autoradiography_PKSimImport.Ovaries.2' included 2 columns and 7 rows
+21/11/2024 - 08:32:24
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_autoradiography
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 14 (json numbering starting at 0);  15 (actual plot index)
+
+21/11/2024 - 08:32:24
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Blood' included 3 columns and 6 rows
+21/11/2024 - 08:32:27
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Blood' included 3 columns and 6 rows
+21/11/2024 - 08:32:30
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 16 (json numbering starting at 0);  17 (actual plot index)
+
+21/11/2024 - 08:32:30
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Lung' included 3 columns and 6 rows
+21/11/2024 - 08:32:33
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 17 (json numbering starting at 0);  18 (actual plot index)
+
+21/11/2024 - 08:32:33
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Kidney' included 3 columns and 6 rows
+21/11/2024 - 08:32:36
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 18 (json numbering starting at 0);  19 (actual plot index)
+
+21/11/2024 - 08:32:37
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Bone' included 3 columns and 6 rows
+21/11/2024 - 08:32:40
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 19 (json numbering starting at 0);  20 (actual plot index)
+
+21/11/2024 - 08:32:40
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Muscle' included 3 columns and 6 rows
+21/11/2024 - 08:32:43
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 20 (json numbering starting at 0);  21 (actual plot index)
+
+21/11/2024 - 08:32:43
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Spleen' included 3 columns and 6 rows
+21/11/2024 - 08:32:46
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 21 (json numbering starting at 0);  22 (actual plot index)
+
+21/11/2024 - 08:32:47
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Liver' included 3 columns and 6 rows
+21/11/2024 - 08:32:50
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 22 (json numbering starting at 0);  23 (actual plot index)
+
+21/11/2024 - 08:32:50
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Heart' included 3 columns and 6 rows
+21/11/2024 - 08:32:53
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 23 (json numbering starting at 0);  24 (actual plot index)
+
+21/11/2024 - 08:32:54
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Fat' included 3 columns and 6 rows
+21/11/2024 - 08:32:57
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 24 (json numbering starting at 0);  25 (actual plot index)
+
+21/11/2024 - 08:32:57
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Brain' included 3 columns and 6 rows
+21/11/2024 - 08:33:00
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 25 (json numbering starting at 0);  26 (actual plot index)
+
+21/11/2024 - 08:33:00
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Stomach' included 3 columns and 6 rows
+21/11/2024 - 08:33:03
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 26 (json numbering starting at 0);  27 (actual plot index)
+
+21/11/2024 - 08:33:04
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Pancreas' included 3 columns and 6 rows
+21/11/2024 - 08:33:07
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 27 (json numbering starting at 0);  28 (actual plot index)
+
+21/11/2024 - 08:33:07
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Intestine' included 3 columns and 6 rows
+21/11/2024 - 08:33:12
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 28 (json numbering starting at 0);  29 (actual plot index)
+
+21/11/2024 - 08:33:13
+Observed data Id 'BAY794620_TissueDissection_PKSimImport.Ovaries' included 3 columns and 6 rows
+21/11/2024 - 08:33:16
+Transformation introduced infinite values in continuous y-axis
+Configuration Plan Information:
+Project: BAY 79-4620
+Simulation: BAY794620_tissueDissection
+SectionReference: ct-profiles
+Plot: list(...)
+PlotNumber: 29 (json numbering starting at 0);  30 (actual plot index)
+
+21/11/2024 - 08:33:16
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/1_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:16
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:16
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:17
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/2_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:17
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:17
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:18
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/3_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:18
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:18
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:18
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/4_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:19
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:19
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:19
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/5_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:19
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:20
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:20
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/6_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:20
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:20
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:21
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/7_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:21
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:21
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:22
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/8_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:22
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:22
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:22
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/9_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:22
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:23
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:23
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/10_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:23
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:23
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:24
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/11_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:24
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:24
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:25
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/12_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:25
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:25
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:26
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/13_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:26
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:26
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:26
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/14_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:26
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:27
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:27
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/15_time_profile_plot_BAY_79_4620_BAY794620_autoradiography.png' was successfully saved.
+21/11/2024 - 08:33:28
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/16_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:28
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:28
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:29
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/17_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:29
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:29
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:29
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/18_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:29
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:30
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:30
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/19_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:30
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:30
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:31
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/20_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:31
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:31
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:32
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/21_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:32
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:32
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:32
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/22_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:32
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:33
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:33
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/23_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:33
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:33
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:34
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/24_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:34
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:34
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:35
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/25_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:35
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:35
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:36
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/26_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:36
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:36
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:36
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/27_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:36
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:37
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:37
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/28_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:37
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:38
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:38
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/29_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:38
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:38
+Transformation introduced infinite values in continuous y-axis
+21/11/2024 - 08:33:39
+Figure 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/images/006_section_results-and-discussion/009_section_ct-profiles/30_time_profile_plot_BAY_79_4620_BAY794620_tissueDissection.png' was successfully saved.
+21/11/2024 - 08:33:39
+Reports 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/001_Introduction.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/002_Methods.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/003_Modeling_Strategy.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/004_Data.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/005_Model_Parameters_and_Assumptions.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/006_Results_and_Discussion.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/007_Final_input_parameters.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/008_Diagnostics_Plots.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/009_Concentration_Time_Profiles.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/010_Conclusion.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/011_References.md' were successfully merged into 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md'
+21/11/2024 - 08:33:39
+In 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md', 0.666666666666667 tables and 32 figures were referenced.
+21/11/2024 - 08:33:39
+In 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md', 5 sections were numbered
+21/11/2024 - 08:33:39
+In 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md', table of content of 13 lines was included.
+21/11/2024 - 08:33:39
+'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md' already exists. Overwriting 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md'.
+21/11/2024 - 08:33:39
+Reports 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/000_Intro.md', 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md' were successfully merged into 'D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/BAY794620-Model/re_output/Report.md'

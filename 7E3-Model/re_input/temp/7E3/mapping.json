@@ -1,0 +1,1785 @@
+{
+  "SimulationMappings": [
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse_Plasma",
+      "Path": "7E3/7E3_WildTypeMouse_Plasma/",
+      "SimulationFile": "7E3_WildTypeMouse_Plasma"
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "Path": "7E3/7E3_WildTypeMouse/",
+      "SimulationFile": "7E3_WildTypeMouse"
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "Path": "7E3/7E3_FcRn_KO_Mouse/",
+      "SimulationFile": "7E3_FcRn_KO_Mouse"
+    }
+  ],
+  "ObservedDataMappings": [
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009.csv"
+    },
+    {
+      "Id": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009",
+      "Path": "ObservedData/Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009.csv"
+    }
+  ],
+  "Plots": [
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse_Plasma",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse_Plasma|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "WildType.VenousBlood.Plasma.Garg2009-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "InvertedTriangle"
+            }
+          },
+          {
+            "Name": "WildType.VenousBlood.Plasma.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Triangle"
+            }
+          },
+          {
+            "Name": "WildType.VenousBlood.Plasma.Garg2007Fig3-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Plasma - lin scale  (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse_Plasma\n2023-03-02 17:46"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse_Plasma",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse_Plasma|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "WildType.VenousBlood.Plasma.Garg2009-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "InvertedTriangle"
+            }
+          },
+          {
+            "Name": "WildType.VenousBlood.Plasma.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Triangle"
+            }
+          },
+          {
+            "Name": "WildType.VenousBlood.Plasma.Garg2007Fig3-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Plasma - log scale (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse_Plasma\n2023-03-02 17:46"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Lung-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2
+            }
+          },
+          {
+            "Name": "WildType.Lung.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Lung (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Kidney-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#FF8000",
+              "LegendIndex": 3
+            }
+          },
+          {
+            "Name": "WildType.Kidney.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF8000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Kidney (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Skin-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#FF00FF",
+              "LegendIndex": 5
+            }
+          },
+          {
+            "Name": "WildType.Skin.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF00FF",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Skin (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Muscle-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#800080",
+              "LegendIndex": 6
+            }
+          },
+          {
+            "Name": "WildType.Muscle.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#800080",
+              "LegendIndex": 7,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Muscle (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Spleen-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#00FF00",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "WildType.Spleen.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#00FF00",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Spleen (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Liver-Whole Organ incl. FcRn_Complex (Liver)-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+            "CurveOptions": {
+              "Color": "#C04000",
+              "LegendIndex": 8
+            }
+          },
+          {
+            "Name": "WildType.Liver.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#C04000",
+              "LegendIndex": 9,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Liver (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Heart-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#FF8080",
+              "LegendIndex": 9
+            }
+          },
+          {
+            "Name": "WildType.Heart.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF8080",
+              "LegendIndex": 10,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Heart (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Large Intestine-Whole Organ (Large Intestine) incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|LargeIntestine|7E3|Whole Organ (Large Intestine) incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#808080",
+              "LegendIndex": 11
+            }
+          },
+          {
+            "Name": "7E3-Small Intestine-Whole Organ (Small Intestine) incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|SmallIntestine|7E3|Whole Organ (Small Intestine) incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#804040",
+              "LegendIndex": 10
+            }
+          },
+          {
+            "Name": "WildType.Gut.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#804040",
+              "LegendIndex": 12,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Gut (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_WildTypeMouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0006,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Brain-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_WildTypeMouse|Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 4
+            }
+          },
+          {
+            "Name": "WildType.Brain.Tissue.Garg2009-Measurement",
+            "X": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009|Time",
+            "Y": "Garg2007_2009_PKSimImport_WT.Data_WildType.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 5,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Brain (wild-type mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_WildTypeMouse\n2023-03-02 17:51"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|VenousBlood|Plasma|7E3|Concentration in container",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "FcRnKO.VenousBlood.Plasma.Garg2009-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2009|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "InvertedTriangle"
+            }
+          },
+          {
+            "Name": "FcRnKO.VenousBlood.Plasma.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig5|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Triangle"
+            }
+          },
+          {
+            "Name": "FcRnKO.VenousBlood.Plasma.Garg2007Fig3-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.VenousBlood.Plasma.Garg2007Fig3|ObservedData|VenousBlood|Plasma|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Plasma (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Lung-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Lung|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 7
+            }
+          },
+          {
+            "Name": "FcRnKO.Lung.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Lung.Tissue.Garg2007Fig5|ObservedData|Lung|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 8,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Lung (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Kidney-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Kidney|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#FF8000",
+              "LegendIndex": 8
+            }
+          },
+          {
+            "Name": "FcRnKO.Kidney.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Kidney.Tissue.Garg2007Fig5|ObservedData|Kidney|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF8000",
+              "LegendIndex": 10,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Kidney (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Skin-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Skin|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#FF00FF",
+              "LegendIndex": 9
+            }
+          },
+          {
+            "Name": "FcRnKO.Skin.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Skin.Tissue.Garg2007Fig5|ObservedData|Skin|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF00FF",
+              "LegendIndex": 11,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Skin (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Muscle-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Muscle|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#800080",
+              "LegendIndex": 10
+            }
+          },
+          {
+            "Name": "FcRnKO.Muscle.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Muscle.Tissue.Garg2007Fig5|ObservedData|Muscle|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#800080",
+              "LegendIndex": 11,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Muscle (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Spleen-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Spleen|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#00FF00",
+              "LegendIndex": 11
+            }
+          },
+          {
+            "Name": "FcRnKO.Spleen.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Spleen.Tissue.Garg2007Fig5|ObservedData|Spleen|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#00FF00",
+              "LegendIndex": 12,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Spleen (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Liver-Whole Organ incl. FcRn_Complex (Liver)-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Liver|7E3|Whole Organ incl. FcRn_Complex (Liver)-7E3",
+            "CurveOptions": {
+              "Color": "#C04000",
+              "LegendIndex": 12
+            }
+          },
+          {
+            "Name": "FcRnKO.Liver.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Liver.Tissue.Garg2007Fig5|ObservedData|Liver|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#C04000",
+              "LegendIndex": 13,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Liver (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Heart-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Heart|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#FF8080",
+              "LegendIndex": 13
+            }
+          },
+          {
+            "Name": "FcRnKO.Heart.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Heart.Tissue.Garg2007Fig5|ObservedData|Heart|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#FF8080",
+              "LegendIndex": 14,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Heart (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Large Intestine-Whole Organ (Large Intestine) incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|LargeIntestine|7E3|Whole Organ (Large Intestine) incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#808080",
+              "LegendIndex": 14
+            }
+          },
+          {
+            "Name": "7E3-Small Intestine-Whole Organ (Small Intestine) incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|SmallIntestine|7E3|Whole Organ (Small Intestine) incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#804040",
+              "LegendIndex": 15
+            }
+          },
+          {
+            "Name": "FcRnKO.Gut.Tissue.Garg2007Fig5-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Gut.Tissue.Garg2007Fig5|ObservedData|Gut|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#804040",
+              "LegendIndex": 16,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Gut (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    },
+    {
+      "Project": "7E3",
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "SectionReference": "ct-profiles",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µmol/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 5E-05,
+            "Max": 1.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "7E3-Brain-Whole Organ incl. FcRn_Complex-7E3-Concentration",
+            "X": "Time",
+            "Y": "7E3_FcRn_KO_Mouse|Organism|Brain|7E3|Whole Organ incl. FcRn_Complex-7E3",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "FcRnKO.Brain.Tissue.Garg2009-Measurement",
+            "X": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009|Time",
+            "Y": "Garg2007_2009_PKSimImport_KO.Data_FcRnKO.Brain.Tissue.Garg2009|ObservedData|Brain|Tissue|7E3|Measurement",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Brain (FcRn KO mice)",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "7E3\n7E3_FcRn_KO_Mouse\n2023-03-02 17:31"
+      }
+    }
+  ],
+  "Inputs": [
+    {
+      "SectionReference": "final-input-parameters",
+      "Path": "Inputs/7E3/Compound/7E3.md"
+    }
+  ]
+}

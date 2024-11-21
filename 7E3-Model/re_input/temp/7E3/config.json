@@ -1,0 +1,43 @@
+{
+  "Project": "7E3",
+  "SnapshotFile": "D:\\a\\OSP-PBPK-Model-Library\\OSP-PBPK-Model-Library\\7E3-Model\\input\\../7E3.json",
+  "OutputFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input",
+  "ObservedDataFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input\\ObservedData",
+  "InputsFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input\\Inputs",
+  "MappingFile": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input\\temp\\7E3\\mapping.json",
+  "TempFolder": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input\\temp\\7E3",
+  "ReportConfigurationFile": "D:/a/OSP-PBPK-Model-Library/OSP-PBPK-Model-Library/7E3-Model/re_input\\report-configuration-plan.json",
+  "SimulationPlots": [
+    {
+      "Simulation": "7E3_WildTypeMouse_Plasma",
+      "Project": "7E3",
+      "SectionReference": "ct-profiles"
+    },
+    {
+      "Simulation": "7E3_WildTypeMouse",
+      "Project": "7E3",
+      "SectionReference": "ct-profiles"
+    },
+    {
+      "Simulation": "7E3_FcRn_KO_Mouse",
+      "Project": "7E3",
+      "SectionReference": "ct-profiles"
+    }
+  ],
+  "Inputs": [
+    {
+      "Type": "Compound",
+      "Name": "7E3",
+      "Project": "7E3",
+      "SectionReference": "final-input-parameters",
+      "SectionLevel": 3
+    }
+  ],
+  "BuildingBlocks": [],
+  "SimulationParameters": [],
+  "Simulations": [
+    "7E3_WildTypeMouse_Plasma",
+    "7E3_WildTypeMouse",
+    "7E3_FcRn_KO_Mouse"
+  ]
+}
