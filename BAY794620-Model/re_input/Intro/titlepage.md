@@ -1,0 +1,20 @@
+# Building and evaluation of a PBPK model for BAY 79-4620 in mice
+
+
+
+
+
+| Version                                         | 1.0-OSP12.1.0                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/BAY794620-Model/releases/tag/v1.0 |
+| OSP Version                                     | 12.1.0                                                          |
+| Qualification Framework Version                 | 3.2                                                          |
+
+
+
+
+
+This evaluation report and the corresponding PK-Sim project file are filed at:
+
+https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/
+
