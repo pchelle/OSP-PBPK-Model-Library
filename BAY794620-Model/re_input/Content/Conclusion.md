@@ -1,0 +1,4 @@
+The herein presented PBPK model overall adequately describes the pharmacokinetics of  BAY 79-4620 in mice. The tissue concentrations from the low dose tissue dissection study (dose approximately 0.025 mg/kg) are similarly well described as the tissue concentrations from the autoradiography study (dose 1.25 mg/kg), with the exception of the late concentrations at 168 h after administration from the tissue dissection study which are underestimated by the model.  The largest deviations between measured and simulated concentration-time profiles are observed for spleen concentrations which are overestimated by the model and brain concentrations which are underestimated.
+
+The PK data had been used during the development of the generic large molecule PBPK model in PK-Sim ([Niederalt 2018](#5-references)) together with PK data from 5 other compounds (7E3, CDA1, dAb2, MEDI-524 & MEDI-524-YTE). 
+
