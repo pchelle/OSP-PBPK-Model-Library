@@ -1,0 +1,4 @@
+The herein presented PBPK model overall adequately describes the pharmacokinetics of 7E3 in mice. The higher antibody clearance in the FcRn KO mice compared to the clearance in the wild-type mice is well described by the model. The largest deviations between measured and simulated concentration time profiles were observed for skin concentrations in the FcRn KO mice and spleen concentrations in the wild-type mice which were overestimated by the model and for brain concentrations in the FcRn KO mice which were underestimated. The initial concentrations in muscle, especially for the FcRn KO mice, as well as in kidney and gut for the wild-type mice were underestimated.  
+
+The PK data had been used during the development of the generic large molecule PBPK model in PK-Sim ([Niederalt 2018](#5-references)) together with PK data from 5 other compounds (BAY 79-4620, CDA1, dAb2, MEDI-524 & MEDI-524-YTE). 
+
