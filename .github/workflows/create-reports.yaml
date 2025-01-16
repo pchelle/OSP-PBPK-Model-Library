@@ -1,1 +1,5 @@
+name: Automated Evaluation Reports and Projects
 
+# Workflow manually triggered and suggest available branches in input
+on:
+  workflow_dispatch:
