@@ -3,3 +3,13 @@ name: Automated Evaluation Reports and Projects
 # Workflow manually triggered and suggest available branches in input
 on:
   workflow_dispatch:
+
+jobs:
+  create-reports:
+    runs-on: ubuntu-latest
+    steps: 
+    - name: Checkout code 
+      uses: actions/checkout@v2 
+    - name: Print branch name 
+      run: echo "Please branch from create-reports to use this action"
+  
