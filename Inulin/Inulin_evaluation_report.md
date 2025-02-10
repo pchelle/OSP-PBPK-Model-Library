@@ -8,11 +8,11 @@
 
 
 
-| Version                                         | 1.0-OSP12.0                                                   |
+| Version                                         | 1.0-OSP11.3                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
 | based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Inulin-Model/releases/tag/v1.0 |
-| OSP Version                                     | 12.0                                                          |
-| Qualification Framework Version                 | 3.3                                                          |
+| OSP Version                                     | 11.3                                                          |
+| Qualification Framework Version                 | 3.2                                                          |
 
 
 
